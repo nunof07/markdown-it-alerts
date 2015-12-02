@@ -1,0 +1,31 @@
+{
+  "name": "markdown-it-alerts",
+  "version": "0.1.0",
+  "description": "Markdown-it plugin to create Bootstrap alerts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nunof07/markdown-it-alerts.git"
+  },
+  "keywords": [
+    "markdown-it-plugin",
+    "markdown-it",
+    "markdown",
+    "bootstrap"
+  ],
+  "author": {
+    "name": "Nuno Freitas",
+    "email": "nunofreitas@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nunof07/markdown-it-alerts/issues"
+  },
+  "homepage": "https://github.com/nunof07/markdown-it-alerts#readme",
+  "dependencies": {
+    "markdown-it-container": "^2.0.0"
+  }
+}
